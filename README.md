@@ -2,7 +2,7 @@
 
 SIXX is an XML serializer/deserializer written in Smalltalk. The purpose is to store and load Smalltalk objects in a portable, dialect-independent XML format.
 
-For further info, please see the [main site](http://www.mars.dti.ne.jp/~umejava/smalltalk/sixx/index.html), or [SIXX Cypress repository](<https://github.com/CampSmalltalk/Cypress>).
+For further info, please see the [main site](http://www.mars.dti.ne.jp/~umejava/smalltalk/sixx/index.html), or [SIXX](<https://github.com/mumez/SIXX>) in [Cypress](<https://github.com/CampSmalltalk/Cypress>) format.
 
 
 ## Installation ##
